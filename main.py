@@ -3,7 +3,7 @@ from telebot import types
 import google.generativeai as genai
 
 # --- الإعدادات الأساسية ---
-API_KEY = "AIzaSyCu79HNwe810G4q0LsZbGw2Uf3qMfYad60" # مفتاح جيمناي الخاص بك
+API_KEY = "AIzaSyBrn0I96biKVzvHq74AuVFVvsFJL_RmbSU" # مفتاح جيمناي الخاص بك
 BOT_TOKEN = "8662890757:AAF6PEAv_StwIy6H6Yx0CGG5KkhmCzJ3Ub4" # توكن البوت
 ADMIN_ID = 1983226660 # تم وضع الأيدي الخاص بك هنا لفتح لوحة التحكم لك فقط
 CH_ID = "@moa_nbh" # يوزر قناتك للاشتراك الإجباري
